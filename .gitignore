@@ -27,3 +27,7 @@
 *.exe
 *.gz
 *.swp
+
+
+.vscode/
+ivy-dev/
